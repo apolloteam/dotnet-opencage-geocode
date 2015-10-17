@@ -1,4 +1,4 @@
-OpenCage Data Geocoding Library for .Net 4.5
+OpenCage Data Geocoding Library for .Net 4.0
 =======================
 
 A [.NET 4.0](http://www.microsoft.com/net) library that uses [OpenCage Geocoder](http://geocoder.opencagedata.com/)
